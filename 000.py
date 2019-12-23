@@ -322,3 +322,9 @@ list_q = [n,m,g]
 for number in list_q:
     print(number)
     
+#functions are follow lower case
+#seperated by _
+def add_two_six(u):
+    result = u +2.6
+    print(result)
+amount = add_two_six(7)
