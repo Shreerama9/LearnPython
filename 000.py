@@ -302,3 +302,23 @@ if x < 0:
     print("x is less tha 0")
 else:
     print("x is greater than 0")
+    
+    
+    
+#for loop
+
+name = "Shreerama Shiva Sai Bharadwaja"
+for element in name:
+    print(element)
+
+
+list_a =["shreerama","deepak","88211"]
+for name in list_a:
+    print(name)
+n = int(input())
+m = int(input())
+g = int(input())
+list_q = [n,m,g]
+for number in list_q:
+    print(number)
+    
